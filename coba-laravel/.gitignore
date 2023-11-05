@@ -1,3 +1,6 @@
+*.json
+*.json.gz
+index
 /.phpunit.cache
 /node_modules
 /public/build
