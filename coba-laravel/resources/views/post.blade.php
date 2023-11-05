@@ -9,5 +9,5 @@
         {!! $post->body !!}  {{-- {!! !!} is used to prevent XSS attack --}}
     </article>
     
-    <a href="/posts" class="d-block mt-3">Back to Posts</a>
+    <a href="/posts" class="d-block mt-3">Back To Posts</a>
 @endsection
