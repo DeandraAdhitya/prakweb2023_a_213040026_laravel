@@ -1,0 +1,1 @@
+SELECT * FROM satoru_blog.users;
